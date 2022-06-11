@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu Mar 31 22:06:06 2022
+# Process ID: 9372
+# Current directory: D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/Lab2.runs/D_BRAM_synth_1
+# Command line: vivado.exe -log D_BRAM.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source D_BRAM.tcl
+# Log file: D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/Lab2.runs/D_BRAM_synth_1/D_BRAM.vds
+# Journal file: D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/Lab2.runs/D_BRAM_synth_1\vivado.jou
+# Running On: DESKTOP-GFOO3VP, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 4, Host memory: 16885 MB
+#-----------------------------------------------------------
+source D_BRAM.tcl -notrace

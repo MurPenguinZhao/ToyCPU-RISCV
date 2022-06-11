@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab2.gen/sources_1/ip/D_BRAM/sim/D_BRAM.v" \
+"../../../../Lab2.gen/sources_1/ip/I_BRAM/sim/I_BRAM.v" \
+
+sv xil_defaultlib  \
+"../../../../lab2.source/ALU.sv" \
+"../../../../lab2.source/CONTROL.sv" \
+"../../../../lab2.source/CORE.sv" \
+"../../../../lab2.source/CSR_CONTROL.sv" \
+"../../../../lab2.source/CSR_REG.sv" \
+"../../../../lab2.source/D_CACHE.sv" \
+"../../../../lab2.source/D_MEMORY.sv" \
+"../../../../lab2.source/FORWARDING.sv" \
+"../../../../lab2.source/IMMGEN.sv" \
+"../../../../lab2.source/I_CACHE.sv" \
+"../../../../lab2.source/I_MEMORY.sv" \
+"../../../../lab2.source/REGISTER.sv" \
+"../../../../lab2.source/SCPU.sv" \
+"../../../../lab2.source/STALL.sv" \
+"../../../../lab2.code/Core_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

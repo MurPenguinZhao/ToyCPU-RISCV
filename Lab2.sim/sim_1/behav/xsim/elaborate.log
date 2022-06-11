@@ -1,0 +1,15 @@
+Vivado Simulator v2021.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L blk_mem_gen_v8_4_5 -L uvm -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot Core_tb_behav xil_defaultlib.Core_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 5 for port 'write_addr' [D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/SCPU.sv:347]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'gp' [D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/SCPU.sv:351]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 1 for port 'EXMEM_RegWrite' [D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/SCPU.sv:564]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 1 for port 'MEMWB_RegWrite' [D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/SCPU.sv:565]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 1 for port 'IDEX_alu_src_b' [D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/SCPU.sv:568]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 13 for port 'addra' [D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/D_MEMORY.sv:83]
+WARNING: [VRFC 10-5021] port 'IDEX_RegisterRd' is not connected on this instance [D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/SCPU.sv:557]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

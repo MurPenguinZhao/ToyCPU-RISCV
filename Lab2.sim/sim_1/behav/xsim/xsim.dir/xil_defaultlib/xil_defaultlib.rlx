@@ -1,0 +1,22 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/Lab2.gen/sources_1/ip/D_BRAM/sim/D_BRAM.v,1648735560,verilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/Lab2.gen/sources_1/ip/I_BRAM/sim/I_BRAM.v,,D_BRAM,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/Lab2.gen/sources_1/ip/I_BRAM/sim/I_BRAM.v,1648735517,verilog,,,,I_BRAM,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/Lab2.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.code/Core_tb.sv,1648696764,systemVerilog,,,,Core_tb,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/ALU.sv,1648029846,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/CONTROL.sv,,ALU,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/CONTROL.sv,1648630285,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/CSR_CONTROL.sv,,CONTROL,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/CORE.sv,1649301497,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/CSR_CONTROL.sv,,CORE,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/CSR_CONTROL.sv,1648029875,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/CSR_REG.sv,,CSR_CONTROL,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/CSR_REG.sv,1648029891,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/D_CACHE.sv,,CSR_REG,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/D_CACHE.sv,1649301802,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/D_MEMORY.sv,,D_CACHE,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/D_MEMORY.sv,1648733409,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/FORWARDING.sv,,D_MEMORY,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/FORWARDING.sv,1648029913,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/IMMGEN.sv,,FORWARDING,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/IMMGEN.sv,1648029934,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/I_CACHE.sv,,IMMGEN,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/I_CACHE.sv,1649300415,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/I_MEMORY.sv,,I_CACHE,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/I_MEMORY.sv,1648734103,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/REGISTER.sv,,I_MEMORY,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/REGISTER.sv,1648029957,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/SCPU.sv,,REGISTER,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/SCPU.sv,1649301312,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/STALL.sv,,SCPU,,uvm,,,,,,
+D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/STALL.sv,1648030030,systemVerilog,,D:/Study_in_2022_Spring/Computer_System/Lab_Project/Lab2/lab2.source/CORE.sv,,STALL,,uvm,,,,,,
